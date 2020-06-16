@@ -1,0 +1,41 @@
+{
+  "customers": [
+    {
+      "Pin": "20121227122844DUNSM9Se068SC",
+      "Name": "Aleshia",
+      "Address1": "14 Taylor St",
+      "Address2": "",
+      "Address3": "",
+      "Town": "St. Stephens Ward",
+      "County": "Kent",
+      "Postcode": "CT2 7PP",
+      "Email": "atomkiewicz@hotmail.com",
+      "DoB": "01-03-1980"
+    },
+    {
+      "Pin": "20120613213949MARTI9De258MA",
+      "Name": "Evan",
+      "Address1": "5 Binney St",
+      "Address2": "",
+      "Address3": "",
+      "Town": "Abbey Ward",
+      "County": "Buckinghamshire",
+      "Postcode": "HP11 2AX",
+      "Email": "evan.zigomalas@gmail.com",
+      "DoB": "01-03-1981"
+    },
+    {
+      "id": "1",
+      "Pin": "20120613213949MARTI9De258MA1",
+      "Name": "Evan1",
+      "Address1": "5 Binney St1",
+      "Address2": "",
+      "Address3": "",
+      "Town": "Abbey Ward1",
+      "County": "Buckinghamshire1",
+      "Postcode": "HP11 2AX1",
+      "Email": "evan.zigomalas@gmail.com1",
+      "DoB": "01-03-1981"
+    }
+  ]
+}

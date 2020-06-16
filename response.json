@@ -1,0 +1,47 @@
+{
+"serach":[
+    {
+        "id":1,
+      "clusterId": 1,
+      "matchStatus": 2,
+      "clusterRecords": [
+          {
+             "data": [
+               {
+               "pin":"123456",
+               "firstname":"Mr Adam H Fisher",
+               "address": "4 Queens Parade",
+               "city":"CHELTENHAM",
+               "email":"kairav@gmail.com",
+               "postalcode": "GL50 3BB"
+               }
+             ],
+             "matchInternalId": 1,
+             "searchMatchLevel": 3
+          }
+      ]
+    },
+    {
+        "id":2,
+        "clusterId": 1,
+        "matchStatus": 2,
+        "clusterRecords": [
+            {
+               "data": [
+                {
+                  "pin":"123457",
+                  "firstname":"Mr Adam Fisher",
+                  "address": "Queens Parade",
+                  "city":"CHELTENHAM",
+                  "email":"saurav@gmail.com",
+                  "postalcode": "GL50"
+                  }
+               ],
+               "matchInternalId": 1,
+               "searchMatchLevel": 3
+            }
+        ]
+      }
+    
+  ]
+}

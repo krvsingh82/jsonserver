@@ -1,0 +1,19 @@
+{
+  "serach": [
+    {
+      "clusterId": 1,
+      "matchStatus": 2,
+      "clusterRecords": [
+        {
+          "data": [
+            {
+              "Pin": "123456"
+            }
+          ],
+          "matchInternalId": 1,
+          "searchMatchLevel": 3
+        }
+      ]
+    }
+  ]
+}
